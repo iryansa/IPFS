@@ -19,7 +19,7 @@ This project simulates the core functionality of the InterPlanetary File System 
    - Build the project within Visual Studio.
 
 3. **Install Graphviz**:
-   - Ensure **Graphviz** is installed on your system. Add it to your system's dependencies if required. You can download and install Graphviz from [Graphviz's official site](https://graphviz.org/).
+   - Ensure **Graphviz** is installed on your system. Add it to your system's dependencies if required. You can download and install Graphviz from <a href="https://graphviz.org/" target="_blank">Graphviz's official site</a>.
 
 4. **Execute**:
    - Run the project and interact with the available commands to test the IPFS simulation features.
