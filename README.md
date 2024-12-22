@@ -8,6 +8,11 @@ This project simulates the core functionality of the InterPlanetary File System 
 - **Efficient Search**: Supports logarithmic search complexity using routing tables.
 - **Dynamic Network**: Machines can be added or removed dynamically with proper data redistribution.
 
+## Data Structures Used
+- **Circular Singly Linked List**: Used for emulating the machines.
+- **Doubly Linked List**: The routing tables are implemented as a doubly linked list.
+- **B-Tree**: B-Trees are used to store key-value pairs, i.e. Hash Value and File Storage Location.
+  
 ## How to Run
 
 1. **Setup Project**:
