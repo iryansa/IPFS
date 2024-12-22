@@ -13,7 +13,7 @@ This project simulates the core functionality of the InterPlanetary File System 
 1. **Setup Project**:
    - Open **Visual Studio**.
    - Create an **Empty C++ Project**.
-   - Import all files from the `mainfiles` folder of this repository.
+   - Import all files from the `MainFiles` folder of this repository.
 
 2. **Build Project**:
    - Build the project within Visual Studio.
